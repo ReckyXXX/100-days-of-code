@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 First commit! I will work on unity shaders course.
 
 ### R1D2
+Working on shaders course: https://www.udemy.com/course/unity-shaders/. Challange 1 completed.
